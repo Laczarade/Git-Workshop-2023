@@ -13,9 +13,14 @@ def func2(num_b):
 def func3(num_a, num_b):
     # do something with inputs and print something
     print(f"{a}, {b}")
+<<<<<<< HEAD
     print("This function has been updated");
     # This comment wasn't always here
 
+=======
+# commit1
+# commit2
+>>>>>>> 832e3f16f722c6a724fe774a63b254cad3eff113
 a = 1
 b = 1
 x = func1(a)
