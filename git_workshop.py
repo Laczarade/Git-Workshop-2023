@@ -13,6 +13,7 @@ def func2(num_b):
 def func3(num_a, num_b):
     # do something with inputs and print something
     print(f"{a}, {b}")
+    print("Donald Rumsfeld")
 
 a = 1
 b = 1
