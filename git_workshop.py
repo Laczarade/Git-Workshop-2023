@@ -13,6 +13,8 @@ def func2(num_b):
 def func3(num_a, num_b):
     # do something with inputs and print something
     print(f"{a}, {b}")
+    print("This function has been updated");
+    # This comment wasn't always here
 
 a = 1
 b = 1
